@@ -24,31 +24,6 @@ WTI_analysis.png       WTI 原油综合分析图表
 Brent_analysis.png     Brent 原油综合分析图表
 ```
 
----
-
-## 环境要求
-
-- Python 3.9+
-- 网络连接（用于拉取真实行情数据）
-
----
-
-## 安装与运行
-
-### 1. 安装依赖
-
-```bash
-pip install -r requirements.txt
-```
-
-或使用 conda 环境：
-
-```bash
-conda create -n futures_analysis python=3.9 -y
-conda activate futures_analysis
-pip install -r requirements.txt
-```
-
 ### 2. 运行程序
 
 ```bash

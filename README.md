@@ -87,6 +87,8 @@ python futures_complete.py
 | 图5（右下） | 历史收盘价频率分布直方图，含均值标注 |
 
 ![Demo](Brent_analysis.png)
+
+![Demo](WTI_analysis.png)
 ---
 
 ## 输出示例

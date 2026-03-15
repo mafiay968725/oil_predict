@@ -24,16 +24,10 @@ WTI_analysis.png       WTI 原油综合分析图表
 Brent_analysis.png     Brent 原油综合分析图表
 ```
 
-### 2. 运行程序
+### 1. 运行程序
 
 ```bash
 python futures_complete.py
-```
-
-或通过 conda 直接运行：
-
-```bash
-conda run -n futures_analysis python futures_complete.py
 ```
 
 ---

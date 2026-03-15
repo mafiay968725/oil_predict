@@ -86,6 +86,7 @@ python futures_complete.py
 | 图4（左下） | MACD 指标（MACD 线、信号线、柱状图） |
 | 图5（右下） | 历史收盘价频率分布直方图，含均值标注 |
 
+![Demo](Brent_analysis.png)
 ---
 
 ## 输出示例

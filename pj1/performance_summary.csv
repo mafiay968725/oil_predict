@@ -1,0 +1,2 @@
+﻿instrument,start_date,end_date,initial_capital,final_equity,total_return,annual_return,max_drawdown,sharpe_ratio,trade_count,win_rate,payoff_ratio,avg_trade_return,profit_factor
+SC0,2019-01-02,2026-03-20,1000000.0,1543829.7,0.54383,0.064645,-0.230347,0.541011,93,0.387097,2.043235,0.002875,1.290464
